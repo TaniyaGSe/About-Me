@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Taniya Senarathna
-- 👀 I’m interested in ...
-- 🌱 I’m an undergraduate
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👩‍ I’m an IT undergraduate in University of Moratuwa
+- 👀 I’m interested in reading books
+
 
 <!---
 Tgs1398/Tgs1398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
